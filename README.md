@@ -1,3 +1,22 @@
+# Hi, I'm Yosritha 👋
+
+🎓 Data Science Undergraduate  
+💻 Learning Web Development & Full Stack  
+🚀 Passionate about building real-world projects  
+
+## 👩‍💻 Skills I'm Learning
+- HTML, CSS, JavaScript
+- Python
+- Git & GitHub
+- Basics of Data Science
+
+## 🎯 Goals
+- Become a Full Stack Developer
+- Build strong real-world projects
+- Get internships through skills
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/yosritha-priya-dharshini
 ## Hi there 👋
 
 <!--
